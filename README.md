@@ -22,7 +22,7 @@ Once the text data was pre-processed and I was able to visualize the data in my 
 
 2.[Project Notebook](https://github.com/qsefqrlopez/capstone/blob/master/code/fake_news_code.ipynb)
 
-3.[Presentation Slides]()
+3.[Presentation Slides](https://docs.google.com/presentation/d/1Tp-ckw-0JNRWawDvtnv__E5qXU0r37I74fVChnfKd_o/edit?usp=sharing)
 
 ## Data Dictionary
 
