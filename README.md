@@ -44,7 +44,7 @@ label class | classification of article by True and False
 
 ## Conclusion & Recommendation
 ---
-The modeThe model I have chosen, TFID and Logistic Regression, will accurately classify whether an article is real or fake based on the text. After cleaning and visualizing the data, along with  creating multiple models, I have come to this conclusion. In comparison with the other models, this outperforms them all and will give you the best accuracy to properly classify the article. This model should be applied before sharing any content with friends or on social media. 
+The model I have chosen, TFID and Logistic Regression, will accurately classify whether an article is real or fake based on the text. After cleaning and visualizing the data, along with  creating multiple models, I have come to this conclusion. In comparison with the other models, this outperforms them all and will give you the best accuracy to properly classify the article. This model should be applied before sharing any content with friends or on social media. 
 
 It is important to fact check whenever you read an article or post. You should also choose to consume information from trusted sources that have multiple filters or must abide by a certain ethic code. It is just as important to be aware that certain main media sources have a news bias. They may be presenting the same information but from a different sentiment and perspective. Also consider not reading the headlines and passing information if you have not read the text. This is considered false connection and is intended to mislead consumers.
 
