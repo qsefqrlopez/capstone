@@ -24,12 +24,10 @@ Once the text data was pre-processed and I was able to visualize the data in my 
 
 3.[Presentation Slides](https://docs.google.com/presentation/d/1Tp-ckw-0JNRWawDvtnv__E5qXU0r37I74fVChnfKd_o/edit?usp=sharing)
 
-## Data Dictionary
-
 
 ## Data Dictionary
 Column | Description
-- | - 
+- | - |
 id | number of entry 
 title | name of article 
 author | writer of article 
