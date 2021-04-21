@@ -27,7 +27,8 @@ Once the text data was pre-processed and I was able to visualize the data in my 
 
 ## Data Dictionary
 Column | Description
-- | - |
+- | -
+
 id | number of entry 
 title | name of article 
 author | writer of article 
